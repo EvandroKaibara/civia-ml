@@ -8,6 +8,8 @@ md("""# CIVIA: risco de barreira de acessibilidade para pessoas cegas e surdas
 
 Este é o modelo de Machine Learning que fiz para o CIVIA, nosso projeto para a CitizenTech.
 
+**Integrantes:** Ana Luiza Santana da Rocha (RM561194), Evandro Yuji Kaibara de Oliveira (RM559274), Guilherme Rodrigues Leite (RM560131), Luís Filipe Crivellaro (RM560877) e Pedro Henrique Batista Bergamin (RM559443).
+
 **Problema.** Quem é cego ou surdo e anda pela cidade encontra trechos que parecem comuns para os outros e são perigosos para ele. Um cruzamento sem sinal sonoro é uma barreira para uma pessoa cega. Uma rua escura, de muito tráfego e sem aviso visual é uma barreira para uma pessoa surda, que não ouve os carros.
 
 **Pergunta do modelo.** Dadas as características de um trecho urbano e o perfil do pedestre (cego ou surdo), qual o nível de barreira: `low`, `medium` ou `high`?

@@ -2,6 +2,14 @@
 
 Este é o modelo que fiz para o CIVIA, nosso projeto para a CitizenTech. É um modelo de Machine Learning que classifica um trecho urbano em `low`, `medium` ou `high` quanto à barreira de acessibilidade, levando em conta o perfil do pedestre (cego ou surdo). O app usa o resultado para avaliar rotas.
 
+### Integrantes
+
+* Ana Luiza Santana da Rocha, RM561194
+* Evandro Yuji Kaibara de Oliveira, RM559274
+* Guilherme Rodrigues Leite, RM560131
+* Luís Filipe Crivellaro, RM560877
+* Pedro Henrique Batista Bergamin, RM559443
+
 ### Como rodar
 
 ```bash
