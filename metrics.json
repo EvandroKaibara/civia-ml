@@ -1,0 +1,12 @@
+{
+  "model": "random forest",
+  "f1_macro_test": 0.6493,
+  "f1_macro_baseline": 0.2069,
+  "cv_f1_macro": {
+    "baseline (classe mais comum)": 0.2069,
+    "regressão logística": 0.6025,
+    "random forest": 0.6419,
+    "gradient boosting": 0.621
+  },
+  "dangerous_errors": 0
+}
