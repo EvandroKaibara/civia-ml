@@ -10,6 +10,11 @@ Este é o modelo que fiz para o CIVIA, nosso projeto para a CitizenTech. É um m
 * Luís Filipe Crivellaro, RM560877
 * Pedro Henrique Batista Bergamin, RM559443
 
+### Links
+
+* [Vídeo pitch](https://www.youtube.com/watch?v=1Sq9_qKbIO8)
+* [Landing page do projeto CIVIA](https://civiaglass.vercel.app/)
+
 ### Como rodar
 
 ```bash
